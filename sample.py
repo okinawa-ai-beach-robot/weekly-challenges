@@ -1,4 +1,4 @@
-def process_data(a, b, c):
+def process_data(b, c, a):
     return (a + b) * c
 
-process_data(2, 3, 4)
+process_data(3, 4, 2)
